@@ -1,4 +1,4 @@
-Hello, I am John Manavalan, an applicant for the GitHub Student Developer Pack. Attached below is my full application:
+ello, I am John Manavalan, an applicant for the GitHub Student Developer Pack. Attached below is my full application:
 
 Application Question Response to "What/How do you plan to use GitHub?": GitHub offers a wide range of resources for developers of all levels, including students. The GitHub Student Developer Pack is a collection of tools and services that are designed to help students learn and develop their 
 coding skills. The pack includes access to a variety of premium tools and services, such as GitHub Pro and AWS Educate, as well as freebies and discounts from a range of other companies. I plan to use GitHub to revolutionize the world through code. 
